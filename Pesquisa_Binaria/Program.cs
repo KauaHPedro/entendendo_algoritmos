@@ -4,15 +4,17 @@
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Digite um número: ");
+            int numero = int.Parse(Console.ReadLine());
             int[] array = {1, 2, 6, 9, 15, 18, 24, 28, 35, 42, 78 };
-            int aux = pesquisa_binaria(array, 19);
+            int aux = pesquisa_binaria(array, numero);
 
             if (aux != -1)
             {
                 Console.WriteLine($"Número encontrado na posição {aux} do vetor!");
             } else
             {
-                Console.WriteLine("Número não encontrado no vetor");
+                Console.WriteLine("Número não encontrado no vetor!");
             }
         }
 

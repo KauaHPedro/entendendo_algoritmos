@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pesquisa_Binaria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c059d0e2c5e0786658eaedbf63a1c05b6b6e4768")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81324c6c77bd38e9f9ed39407e70a8abba249b47")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pesquisa_Binaria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pesquisa_Binaria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
