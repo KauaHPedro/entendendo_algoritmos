@@ -1,0 +1,15 @@
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\bin\Debug\net8.0\Pesquisa_Binaria.exe
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\bin\Debug\net8.0\Pesquisa_Binaria.deps.json
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\bin\Debug\net8.0\Pesquisa_Binaria.runtimeconfig.json
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\bin\Debug\net8.0\Pesquisa_Binaria.dll
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\bin\Debug\net8.0\Pesquisa_Binaria.pdb
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\obj\Debug\net8.0\Pesquisa_Binaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\obj\Debug\net8.0\Pesquisa_Binaria.AssemblyInfoInputs.cache
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\obj\Debug\net8.0\Pesquisa_Binaria.AssemblyInfo.cs
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\obj\Debug\net8.0\Pesquisa_Binaria.csproj.CoreCompileInputs.cache
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\obj\Debug\net8.0\Pesquisa_Binaria.sourcelink.json
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\obj\Debug\net8.0\Pesquisa_Binaria.dll
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\obj\Debug\net8.0\refint\Pesquisa_Binaria.dll
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\obj\Debug\net8.0\Pesquisa_Binaria.pdb
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\obj\Debug\net8.0\Pesquisa_Binaria.genruntimeconfig.cache
+C:\Users\kauah\OneDrive\Área de Trabalho\Entendendo Algoritmos - Implementações\Pesquisa_Binaria\obj\Debug\net8.0\ref\Pesquisa_Binaria.dll
